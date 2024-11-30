@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "Experience high-quality sound with these comfortable over-ear wireless headphones.",
+    "category": "gadgets",
+    "image": "https://example.com/img/headphones.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 340
+    }
+  },
+  {
+    "id": 2,
+    "title": "Smart Fitness Band",
+    "price": 39.95,
+    "description": "Track your fitness goals with this sleek and lightweight smart band.",
+    "category": "gadgets",
+    "image": "https://example.com/img/fitness_band.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 250
+    }
+  },
+  {
+    "id": 3,
+    "title": "Portable Power Bank 20,000mAh",
+    "price": 29.99,
+    "description": "Stay charged on the go with this high-capacity power bank.",
+    "category": "gadgets",
+    "image": "https://example.com/img/power_bank.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 410
+    }
+  },
+  {
+    "id": 4,
+    "title": "Wireless Charging Pad",
+    "price": 24.95,
+    "description": "Conveniently charge your devices wirelessly with this sleek pad.",
+    "category": "gadgets",
+    "image": "https://example.com/img/charging_pad.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 200
+    }
+  },
+  {
+    "id": 5,
+    "title": "Noise Cancelling Earbuds",
+    "price": 99.99,
+    "description": "Immerse yourself in music with these true wireless noise-cancelling earbuds.",
+    "category": "gadgets",
+    "image": "https://example.com/img/earbuds.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 320
+    }
+  },
+  {
+    "id": 6,
+    "title": "Smart Home Security Camera",
+    "price": 79.95,
+    "description": "Keep your home safe with this high-definition smart security camera.",
+    "category": "gadgets",
+    "image": "https://example.com/img/security_camera.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 190
+    }
+  },
+  {
+    "id": 7,
+    "title": "4K Action Camera",
+    "price": 149.95,
+    "description": "Capture every adventure in stunning 4K with this waterproof action camera.",
+    "category": "gadgets",
+    "image": "https://example.com/img/action_camera.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 280
+    }
+  },
+  {
+    "id": 8,
+    "title": "Smartwatch with GPS",
+    "price": 199.99,
+    "description": "Stay connected and track your fitness with this GPS-enabled smartwatch.",
+    "category": "gadgets",
+    "image": "https://example.com/img/smartwatch.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 150
+    }
+  },
+  {
+    "id": 9,
+    "title": "VR Headset",
+    "price": 299.95,
+    "description": "Enter new worlds with this immersive virtual reality headset.",
+    "category": "gadgets",
+    "image": "https://example.com/img/vr_headset.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 230
+    }
+  },
+  {
+    "id": 10,
+    "title": "Noise-Cancelling Headphones",
+    "price": 159.99,
+    "description": "Enjoy peace and quiet with these premium noise-cancelling headphones.",
+    "category": "gadgets",
+    "image": "https://example.com/img/noise_headphones.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 420
+    }
+  },
+  {
+    "id": 11,
+    "title": "Smart Wi-Fi Plug",
+    "price": 19.95,
+    "description": "Control your appliances remotely with this smart plug.",
+    "category": "gadgets",
+    "image": "https://example.com/img/smart_plug.jpg",
+    "rating": {
+      "rate": 4.1,
+      "count": 300
+    }
+  },
+  {
+    "id": 12,
+    "title": "Smart Light Bulb",
+    "price": 12.99,
+    "description": "Change your room’s ambiance with this color-changing smart bulb.",
+    "category": "gadgets",
+    "image": "https://example.com/img/smart_bulb.jpg",
+    "rating": {
+      "rate": 4.2,
+      "count": 270
+    }
+  },
+  {
+    "id": 13,
+    "title": "Bluetooth Speaker",
+    "price": 49.99,
+    "description": "Bring the party anywhere with this portable Bluetooth speaker.",
+    "category": "gadgets",
+    "image": "https://example.com/img/bluetooth_speaker.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 410
+    }
+  },
+  {
+    "id": 14,
+    "title": "Wireless Mouse",
+    "price": 29.95,
+    "description": "Work comfortably with this ergonomic wireless mouse.",
+    "category": "gadgets",
+    "image": "https://example.com/img/wireless_mouse.jpg",
+    "rating": {
+      "rate": 4.4,
+      "count": 230
+    }
+  },
+  {
+    "id": 15,
+    "title": "Mechanical Gaming Keyboard",
+    "price": 99.95,
+    "description": "Enhance your gaming experience with this mechanical RGB keyboard.",
+    "category": "gadgets",
+    "image": "https://example.com/img/gaming_keyboard.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 330
+    }
+  },
+  {
+    "id": 16,
+    "title": "Smart Thermostat",
+    "price": 199.99,
+    "description": "Save energy and stay comfortable with this smart thermostat.",
+    "category": "gadgets",
+    "image": "https://example.com/img/smart_thermostat.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 180
+    }
+  },
+  {
+    "id": 17,
+    "title": "Smart Door Lock",
+    "price": 249.95,
+    "description": "Secure your home with this keyless smart door lock.",
+    "category": "gadgets",
+    "image": "https://example.com/img/smart_lock.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 210
+    }
+  },
+  {
+    "id": 18,
+    "title": "Tablet 10-inch",
+    "price": 329.99,
+    "description": "Enjoy movies and productivity on this 10-inch high-resolution tablet.",
+    "category": "gadgets",
+    "image": "https://example.com/img/tablet.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 250
+    }
+  },
+  {
+    "id": 19,
+    "title": "Wireless Router",
+    "price": 149.95,
+    "description": "Get fast, reliable internet with this dual-band wireless router.",
+    "category": "gadgets",
+    "image": "https://example.com/img/router.jpg",
+    "rating": {
+      "rate": 4.3,
+      "count": 320
+    }
+  },
+  {
+    "id": 20,
+    "title": "E-Reader",
+    "price": 99.99,
+    "description": "Read your favorite books anytime with this compact e-reader.",
+    "category": "gadgets",
+    "image": "https://example.com/img/e_reader.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 290
+    }
+  }
+]
