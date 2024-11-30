@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "title": "UltraBook Pro 15",
+      "price": 999.99,
+      "description": "Sleek and lightweight laptop with a 15-inch Retina display, ideal for both work and entertainment.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop1.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 150
+      }
+    },
+    {
+      "id": 2,
+      "title": "Gaming Beast 17",
+      "price": 1499.99,
+      "description": "High-performance 17-inch laptop designed for gaming enthusiasts with advanced cooling and RGB lighting.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop2.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 200
+      }
+    },
+    {
+      "id": 3,
+      "title": "Artist PenTab Pro",
+      "price": 199.99,
+      "description": "Professional drawing tablet with a high-resolution screen and precision stylus for digital artists.",
+      "category": "pen tablets",
+      "image": "https://fakestoreapi.com/img/pentab1.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": 4,
+      "title": "NoteBook Air 13",
+      "price": 899.99,
+      "description": "Compact and powerful 13-inch laptop, perfect for students and professionals on the go.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop3.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 95
+      }
+    },
+    {
+      "id": 5,
+      "title": "Sketch Pad Mini",
+      "price": 149.99,
+      "description": "Portable pen tablet with a battery-free stylus, designed for sketching and note-taking.",
+      "category": "pen tablets",
+      "image": "https://fakestoreapi.com/img/pentab2.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 130
+      }
+    },
+    {
+      "id": 6,
+      "title": "WorkStation 15",
+      "price": 1199.99,
+      "description": "Powerful 15-inch workstation laptop with advanced processing power for demanding applications.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop4.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 170
+      }
+    },
+    {
+      "id": 7,
+      "title": "Graphic Designer's PenTab",
+      "price": 299.99,
+      "description": "High-precision pen tablet tailored for graphic designers and illustrators.",
+      "category": "pen tablets",
+      "image": "https://fakestoreapi.com/img/pentab3.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 8,
+      "title": "Chromebook Slim",
+      "price": 499.99,
+      "description": "Lightweight Chromebook with a 14-inch display, ideal for web-based applications and productivity.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop5.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 80
+      }
+    },
+    {
+      "id": 9,
+      "title": "Digital Creator PenTab",
+      "price": 349.99,
+      "description": "Innovative pen tablet for digital creators, featuring a customizable touch ring and express keys.",
+      "category": "pen tablets",
+      "image": "https://fakestoreapi.com/img/pentab4.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 140
+      }
+    },
+    {
+      "id": 10,
+      "title": "UltraFlex 14 Laptop",
+      "price": 1099.99,
+      "description": "Convertible 2-in-1 laptop with a 14-inch touchscreen, perfect for versatility and productivity.",
+      "category": "laptops",
+      "image": "https://fakestoreapi.com/img/laptop6.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 160
+      }
+    }
+  ]
+  
